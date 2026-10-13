@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración con tokens y webhooks
+config.py
+tokens.json
+.env
+
+# Ignorar carpetas de entornos virtuales y caché de Python
+__pycache__/
+venv/
+.vscode/
